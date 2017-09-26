@@ -33,8 +33,6 @@ chmod 777 extratab
 
 chmod +x edward
 
-./install
-
 screen ./extratab
 
 • و تمام به ربات اکسترا تب تبچی خوش آمدید برای شروع از دستور help استفاده کنید :)
