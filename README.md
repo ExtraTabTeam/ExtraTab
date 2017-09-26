@@ -1,4 +1,6 @@
-• آموزش نصب سورس اکسترا تب تبچی :
+• آموزش نصب سورس اکسترا تب تبچی:
+
+git clone https://github.com/ExtraTabTeam/ExtraTab
 
 cd $HOME
 
